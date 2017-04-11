@@ -1,0 +1,23 @@
+{
+  "author": {
+    "name": "Matt Ray"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/themattray/cordova-plugin-wkwebviewxhrfix"
+  },
+  "name": "cordova-plugin-wkwebviewxhrfix",
+  "version": "0.1.0",
+  "description": "Cordova plugin to fix local file XHR access inside WKWebView",
+  "cordova": {
+    "id": "cordova-plugin-wkwebviewxhrfix",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios"
+  ]
+}
